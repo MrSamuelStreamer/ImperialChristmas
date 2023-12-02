@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+	<Food.label>cookies and milk</Food.label>
+	<Food.description>Cookies and milk measures the amount of nutritious food a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. Yes, this means that every meal eaten is a form of cookies and milk. Let your imagination fill in the gaps on what a meat and rice cookie looks like.</Food.description>
+
+	<Mood.label>christmas cheer</Mood.label>
+	<Mood.description>Christmas cheer represents how full of holiday spirit someone is. If christmas cheer gets too low through neglecting certain needs such as not consuming their daily milk and cookies, the person may suffer a mental break. Depending on how low their mood is, someone who has a mental break may just preemptively "open" (read: destroy) someone's christmas presents, or they may go so far as to destroy an entire sleigh transport system, along with the many stacks of highly explosive fuel placed next to it.</Mood.description>
+</LanguageData>
