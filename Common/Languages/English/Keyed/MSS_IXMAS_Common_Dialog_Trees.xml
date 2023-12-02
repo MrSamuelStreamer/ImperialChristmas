@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <FactionGreetingHostile>{0} is refusing to send you a Christmas card this year until you apologise.</FactionGreetingHostile>
+    <FactionGreetingHostileAppreciative>{0} demands that you put them on your Christmas list, and send gifts to {0_possessive} settlements or releasing {0_possessive} faction's prisoners unharmed. Until then, {0_pronoun} has taken you off of their Christmas list. {0_pronoun} blows a raspberry into the communicator.</FactionGreetingHostileAppreciative>
+</LanguageData>

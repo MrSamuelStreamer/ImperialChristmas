@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+    <!-- Long events -->
+    <InitializingInterface>Bringing in the Christmas Tree</InitializingInterface>
+    <UnloadingUnusedAssets>Recycling wrapping paper</UnloadingUnusedAssets>
+    <LoadingAllActiveMods>Peaking under the tree</LoadingAllActiveMods>
+    <LoadingDefs>Stuffing the turkey</LoadingDefs>
+    <LoadingAssets>Putting on festive jumpers</LoadingAssets>
+    <Initializing>Serving up dinner</Initializing>
+    <LoadingWorld>Checking the address</LoadingWorld>
+    <LoadingMap>Dodging carolers</LoadingMap>
+    <InitializingGame>Unwrapping gifts</InitializingGame>
+    <SpawningAllThings>Putting up decorations</SpawningAllThings>
+    <SpawningColonists>Inviting guests</SpawningColonists>
+
+</LanguageData>

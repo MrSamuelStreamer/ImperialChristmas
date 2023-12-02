@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <BreakRiskMinorDesc>These colonists aren't feeling the Christmas spirit:\n\n{0}</BreakRiskMinorDesc>
+    <BreakRiskMajorDesc>These colonists REALLY aren't feeling the Christmas spirit:\n\n{0}</BreakRiskMajorDesc>
+    <BreakRiskExtremeDesc>These colonists are about to ruin Christmas:\n\n{0}</BreakRiskExtremeDesc>
+
+    <AlertTatteredApparelDesc>These colonists are wearing tattered apparel, which is making them sad:\n\n{0}\nWrap them up some fresh socks.\n\nYou can tailor apparel at a crafting spot or tailoring bench, or buy it from traders.</AlertTatteredApparelDesc>
+
+    <AlertUnhappyNudityDesc>These colonists have forgotten their Christmas jumpers:\n\n{0}\nGet them some clothes.\n\nYou can tailor apparel at a crafting spot or tailoring bench, or buy it from traders.</AlertUnhappyNudityDesc>
+
+    <StarvationDesc>These colonists are starving:\n\n{0}\nServe the roast potatoes!</StarvationDesc>
+
+    <StarvationAnimalsDesc>These animals are starving:\n\n{0}\nGet them some leftover roast beef!</StarvationAnimalsDesc>
+
+    <ExhaustionDesc>These colonists are exhausted and need rest:\n\n{0}\nGet them some rest, otherwise Santa won't visit! They'll need a bed marked for colonist use. Also, make sure they're not drafted.</ExhaustionDesc>
+
+    <NeedMealSourceDesc>You have no way of preparing Christmas dinner!\n\nBuild a stove, campfire, or other cooking facility.\n\n(It cannot be in a prison cell, otherwise colonists cannot use it.)</NeedMealSourceDesc>
+
+    <BrawlerHasRangedWeaponDesc>One of your colonists wanted a baseball bat but ended up with a potato gun. This will make them very unhappy.</BrawlerHasRangedWeaponDesc>
+
+    <ColonistsIdle>{0} colonists being lazy</ColonistsIdle>
+    <ColonistsIdleDesc>These colonists are lazing around:\n\n{0}\nYou should probably find them something productive to do.</ColonistsIdleDesc>
+
+    <ColonistNeedsTreatmentDesc>These people need treatment. Without it, they may die of their wounds and miss Christmas, or their wounds may become permanent.\n\n{0}\nTreat them by sending them to a medical bed.\n\n(First, assign a medical bed by selecting it and toggling it into a medical bed. Then, select the wounded person and right-click on the medical bed to make them a patient.)</ColonistNeedsTreatmentDesc>
+
+    <AlertHypothermiaDesc>These colonists are suffering from hypothermia:\n\n{0}\nGive them some wooly mitten and welly boots, and that indoor spaces are sufficiently cozy.</AlertHypothermiaDesc>
+
+    <PawnsWithLifeThreateningDisease>Probably missing Christmas</PawnsWithLifeThreateningDisease>
+
+    <NeedWarmClothesDesc1>At least {0} of your colonists will need a warm jumper and some hot chocolate when the season comes.</NeedWarmClothesDesc1>
+    <NeedWarmClothesDesc1All>All of your colonists will need warm jumpers and some hot chocolate when the season comes.</NeedWarmClothesDesc1All>
+
+    <QuestPartShuttleLeaveDelay>Sleigh leaving in {0}</QuestPartShuttleLeaveDelay>
+    <QuestPartShuttleLeaveDelayDesc>The sleigh will leave in {1}. The quest {0} requires you to load the following people or items onto the sleigh before it leaves:\n\n{2}</QuestPartShuttleLeaveDelayDesc>
+    <QuestPartShuttleLeaveDelayDescHidden>The sleigh will leave in {0}.</QuestPartShuttleLeaveDelayDescHidden>
+
+    <QuestPartShuttleArriveDelay>Sleigh arriving in {0}</QuestPartShuttleArriveDelay>
+    <QuestPartShuttleArriveDelayDesc>A sleigh will arrive in {1}. The quest {0} requires you to load the following people or items onto the sleigh before it leaves:\n\n{2}</QuestPartShuttleArriveDelayDesc>
+    <QuestPartShuttleArriveDelayDescHidden>A sleigh will arrive in {0}.</QuestPartShuttleArriveDelayDescHidden>
+</LanguageData>
