@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <RansomDemand>{1} has sent a message. They are having {PAWN_labelShort} over for tea and cakes.\n\nThey're charing you for {PAWN_objective}'s bill of {2} silver, otherwise {PAWN_labelShort} has to stay and wash the dishes.</RansomDemand>
+    <LetterLabelRefugeePodCrash>Sleigh front crash</LetterLabelRefugeePodCrash>
+    <RefugeePodCrash>{PAWN_titleIndef} named {PAWN_nameDef} is crashing in a sleigh nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded.</RefugeePodCrash>
+    <LetterLabelCargoPodCrash>Sleigh rear crash</LetterLabelCargoPodCrash>
+    <CargoPodCrash>You have seen the back of a sleigh crashing nearby.\n\nPerhaps you'll find something useful in the wreckage.</CargoPodCrash>
+</LanguageData>
