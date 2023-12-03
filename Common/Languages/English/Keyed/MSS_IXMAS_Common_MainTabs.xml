@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <ColonistsKilled>Little Helpers killed</ColonistsKilled>
+    <ColonistsLaunched>Little Helpers launched into space</ColonistsLaunched>
+
+    <ShuttleArrivesIn>Sleigh arrives in {0}</ShuttleArrivesIn>
+    <ShuttleArrivesOn>Sleigh arrives on {0}</ShuttleArrivesOn>
+    <ShuttleDepartsIn>Sleigh departs in {0}</ShuttleDepartsIn>
+    <ShuttleDepartsOn>Sleigh departs on {0}</ShuttleDepartsOn>
+</LanguageData>

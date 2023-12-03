@@ -1,7 +1,11 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
+
 <LanguageData>
 
-  <Reward_Items>sleighs with the following resources will arrive (total value {1}):
-    \n{0}</Reward_Items>
-    
+    <Reward_Items>sleighs with the following resources will arrive (total value {1}): \n{0}</Reward_Items>
+    <ShuttleDelayInspectString>Departing on sleigh in {0}</ShuttleDelayInspectString>
+    <ShouldDepartOnShuttleInspectString>Should depart on sleigh</ShouldDepartOnShuttleInspectString>
+    <Reward_ShuttleLoot_Label>Sleigh loot</Reward_ShuttleLoot_Label>
+    <Reward_ShuttleLoot>you can deconstruct and loot the sleigh</Reward_ShuttleLoot>
+
 </LanguageData>
