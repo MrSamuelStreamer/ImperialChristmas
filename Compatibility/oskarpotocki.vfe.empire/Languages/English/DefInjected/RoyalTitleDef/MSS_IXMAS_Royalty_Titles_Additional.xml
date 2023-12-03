@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <VFEE_Archcount.label>Arch-Distributor</Freeholder.label>
+    <VFEE_Archcount.description>The arch-distributor manages their sub-dukes, and feeds back to the higher rank dominions. It is the responsibility of the arch-distributor to ensure no issues present themselves to the higher ups.</Freeholder.description>
+    <VFEE_Marquess.label>Supply Enforcer</Freeholder.label>
+    <VFEE_Marquess.description>Those with the rank of Supply Enforcers are some of the few to have direct control over the destination and volume of Santa's gifts. They directly decide the rewards for being nice, or the maluses for being naughty.</Freeholder.description>
+    <VFEE_Archduke.label>System Santa</Freeholder.label>
+    <VFEE_Archduke.description>System Santas directly control system wide distribution and coordination. This can range from an inhabited world and space-transport to several colonies and moons within.</Freeholder.description>
+    <VFEE_Magister.label>Head Elf</Freeholder.label>
+    <VFEE_Magister.description>Father Christmas is more of a ceremonial role with little inherent political power other than that inherited from previous ranks. This is a title mostly reserved for the elderly and venerable, and is the highest earnable rank by elf-kind.</Freeholder.description>
+    <VFEE_Despot.label>Saint Nicolas</Freeholder.label>
+    <VFEE_Despot.description>Despots are roles reserved for those in-line to become the next Santa, or those who have stepped back from Santa duty, but wish to retain some power and influence, rather than retiring to the rank of Santa-Emeritus.</Freeholder.description>
+    <VFEE_HighStellarch.label>Father Christmas</Freeholder.label>
+    <VFEE_HighStellarch.description>Second only to Santa Claus, Father Christmas is viewed in some cultures as being equivalent in terms of power and influnce, much the chagrin of Santa Claus. This role, though measurably less powerful, still dominates the Christmas empire's influence and power.</Freeholder.description>
+</LanguageData>

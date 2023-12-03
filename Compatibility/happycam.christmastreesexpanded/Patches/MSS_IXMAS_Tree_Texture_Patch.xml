@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <match Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName="Plant_TreePine"]/graphicData/texPath</xpath>
+                <value>
+                    <texPath>Things/Building/Misc/ChristmasTree/CT_Pine</texPath>			
+                </value>
+            </li>
+             <li Class="PatchOperationReplace">
+                <xpath>/Defs/ThingDef[defName="Plant_TreeBirch"]/graphicData/texPath</xpath>
+                <value>
+                    <texPath>Things/Building/Misc/ChristmasTree/CT_Birch</texPath>			
+                </value>
+            </li>  
+            <!-- Probably worth adding a check mod for royalty here and retexturing anima trees with CT_Anima.png, and same for gauranlen and ideo as well -->
+        </operations>
+    </match>
+</Patch>
