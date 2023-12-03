@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+    <RulePackDef>
+        <defName>MSS_IXMAS_EmpireNameUtility</defName>
+        <rulePack>
+            <rulesStrings>
+                <li>WordImperial(p=4)->[SylB][SylB]</li>
+                <li>WordImperial(p=2)->[SylB][SylB][SylB]</li>
+                <li>WordImperial(p=0.2)->[SylB][SylB][SylB][SylB]</li>
+            </rulesStrings>
+            <rulesFiles>
+                <li>ImperialNameFirstMale->Names/MSS_IXMAS_Imperial_First_Male</li>
+                <li>ImperialNameFirstFemale->Names/MSS_IXMAS_Imperial_First_Female</li>
+                <li>ImperialNameLast->Names/MSS_IXMAS_Imperial_Last</li>
+            </rulesFiles>
+        </rulePack>
+    </RulePackDef>
+
+    <RulePackDef>
+        <defName>MSS_IXMAS_NamerFactionEmpire</defName>
+        <include>
+            <li>MSS_IXMAS_EmpireNameUtility</li>
+        </include>
+        <rulePack>
+            <rulesStrings>
+                <li>r_name(p=4)->[leader]'s [empire]</li>
+                <li>r_name(p=2)->[empire] of [ofThing]</li>
+                <li>r_name(p=2)->The [empire] of [ofThing]</li>
+                <li>r_name->The Glinting [empire]</li>
+                <li>r_name->The Refugee [empire]</li>
+                <li>r_name->The Divided [empire]</li>
+                <li>r_name->The Generous [empire]</li>
+                <li>r_name->The Giving [empire]</li>
+                <li>r_name->The [Color] [empire]</li>
+
+                <li>leader->Santa</li>
+                <li>leader->Saint Nick</li>
+                <li>leader->Papa Noel</li>
+                <li>leader->Sinterklaas</li>
+                <li>leader->Kris Kringle</li>
+
+                <li>empire(p=4)->Workshop</li>
+                <li>empire->North Pole</li>
+                <li>empire->Gifters</li>
+                <li>empire->Helpers</li>
+                <li>empire->Little Helpers</li>
+                <li>empire->Workshop</li>
+                <li>empire->Sovereignty</li>
+
+                <li>ofThing(p=4)->[WordImperial]</li>
+                <li>ofThing->the North</li>
+                <li>ofThing->the North Pole</li>
+                <li>ofThing->the World</li>
+                <li>ofThing->Santa</li>
+                <li>ofThing->Generosity</li>
+                <li>ofThing->Giving</li>
+                <li>ofThing->the Spirit</li>
+                <li>ofThing->the Tree</li>
+            </rulesStrings>
+        </rulePack>
+    </RulePackDef>
+</Defs>

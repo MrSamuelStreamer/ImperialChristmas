@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+    <MessageTransporterUnreachable>Some transport presents are unreachable.</MessageTransporterUnreachable>
+    <MessageTransportersNotAdjacent>All present launchers connected to the selected transport presents must be adjacent.</MessageTransportersNotAdjacent>
+
+    <MessageTransportersLoadCanceled_TransporterDestroyed>The loading process has been canceled because one of the transport presents has been destroyed .</MessageTransportersLoadCanceled_TransporterDestroyed>
+    <MessageTransporterSingleLoadCanceled_TransporterDestroyed>The loading process has been canceled because the sleigh has been destroyed .</MessageTransporterSingleLoadCanceled_TransporterDestroyed>
+    <MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>The loading process has been canceled because one of the present launchers has been destroyed .</MessageTransportersLoadCanceled_FuelingPortGiverDeSpawned>
+
+    <MessageTransportersLoadingProcessStarted>Assigned items and people will now be loaded into the transport presents.</MessageTransportersLoadingProcessStarted>
+    <MessageTransporterSingleLoadingProcessStarted>Assigned items and people will now be loaded into the sleigh.</MessageTransporterSingleLoadingProcessStarted>
+
+    <MessageTransportPodsArrived>Your transport presents have arrived.</MessageTransportPodsArrived>
+    <MessageTransportPodsArrivedAndLost>Your transport presents have arrived, but since there were no colonists inside, the contents are lost.</MessageTransportPodsArrivedAndLost>
+    <MessageTransportPodsArrivedAndAddedToCaravan>Your transport presents have arrived. The contents have been added to {0}.</MessageTransportPodsArrivedAndAddedToCaravan>
+
+    <MessageFinishedLoadingTransporters>Transport present loading complete. Launch when ready.</MessageFinishedLoadingTransporters>
+    <MessageFinishedLoadingTransporterSingle>Shuttle is loaded with required cargo and can launch when ready.</MessageFinishedLoadingTransporterSingle>
+
+    <MessageCantLoadMoreIntoTransporters>Your {1} can't finish loading the transport presents because some items or people became unavailable ({2_labelShort}) .</MessageCantLoadMoreIntoTransporters>
+
+    <MessageTransportPodsDestinationIsTooFar>Each present launcher would need at least {0}x chemfuel to send transport presents that far.</MessageTransportPodsDestinationIsTooFar>
+
+    <MessageCantBanishLastColonist>You can't banish the last little helper.</MessageCantBanishLastColonist>
+
+
+</LanguageData>

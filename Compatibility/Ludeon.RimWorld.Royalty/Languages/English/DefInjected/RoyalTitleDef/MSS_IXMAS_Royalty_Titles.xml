@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <Freeholder.label>hammer</Freeholder.label>
+    <Freeholder.description>The title of hammer is used by the North Pole and signifies a fully-respected individual worthy of wielding their own toy hammer. Most citizens earn it while young through volunteer work or military service. The title is also offered to outsiders who act with christmas spirit in the eyes of the North Pole        .</Freeholder.description>
+
+    <Yeoman.label>foreman</Yeoman.label>
+    <Yeoman.description>The title of foreman is held by those who serve a respected christmas entity in an important, specific way. While it is not a noble title, it does give the holder the right to use low-level magic abilities.\n\nThis title is often held by senior E.L.Fs, child checkers and other key individuals. Many important people spend their entire lives as foreman, seeking success outside the strictures of nobility.</Yeoman.description>
+
+    <Acolyte.label>list checker</Acolyte.label>
+    <Acolyte.description>The title of list checker is the first title of noble duty, and encompasses a wide range of list monitoring duties. Updating, compiling the list, checking it thrice, because while Santa checks it twice, it wouldn't do for him to find an error.</Acolyte.description>
+
+    <Knight.label>sleigher</Knight.label>
+    <Knight.labelFemale>sleigher</Knight.labelFemale>
+    <Knight.description>The title of sleigher is held by nobles who have largely passed their training, but who have not ascended to higher leadership roles. Somewhat ceremonial, their duties largely center around keeping the sleigh in good working order and ready in time for christmas. Many never advance further, and spend their lives as respected managers, keeping careful watch over the sleigh hangar.</Knight.description>
+
+    <Praetor.label>workshop manager</Praetor.label>
+    <Praetor.description>The title of workshop manager is a bridge between the service-oriented lower titles below and the christmas powers above.\n\nThey usually spend their days running sub-workshops to support the christmas gift machine and provide geo-distributed safe-houses for Santa in the case of a christmas emergency. .</Praetor.description>
+
+    <Baron.label>village master</Baron.label>
+    <Baron.labelFemale>village mistress</Baron.labelFemale>
+    <Baron.description>The leader of an elf village supporting the smooth running of the christmas operations. They are responsible for the majority of the workforce and are key players in making sure christmas stays on schedule.</Baron.description>
+
+    <Count.label>distributor</Count.label>
+    <Count.labelFemale>distributor</Count.labelFemale>
+    <Count.description>The title of distributor is a well respected station, these individuals are responsible for all the villages in a region of the world and often the conduit from Santa to the villages. They must often spend most of their lives travelling but rarely merit a sleigh ride, having to instead become master riders or master the art of magical travel.</Count.description>
+
+    <Duke.label>local santa</Duke.label>
+    <Duke.labelFemale>local mrs santa</Duke.labelFemale>
+    <Duke.description>The title of santa applies at many levels, the local santa. Will often make public appearances for Santa and drive christmas within a region. Many people may never even know that the Santa they've interacted with is only a local santa.</Duke.description>
+
+    <Consul.label>claus</Consul.label>
+    <Consul.description>This title marks out an individual to be the next in line to the Claus name, in the situation where the current System's Santa falls off a roof and is unable to pass on the duties, the role will fall to a claus in waiting.</Consul.description>
+
+    <Stellarch.label>santa</Stellarch.label>
+    <Stellarch.description>The title of santa represents dominion over christmas in a system which they control with a great degree of independence. They each swear fealty to The Santa Claus, but since they may be many light-years away, a Claus may go years or decades without interacting with them.</Stellarch.description>
+
+    <Emperor.label>santa claus</Emperor.label>
+    <Emperor.labelFemale>mrs Claus</Emperor.labelFemale>
+    <Emperor.description>The title of Claus indicates sovereign dominion over all of christmas, all its peoples, traditions and spirit. All other lords swear fealty to a high lord, while a santa claus swears fealty to no one. However, even Santa cannot handle all the duties of christmas alone and depends on the support staff below.</Emperor.description>
+</LanguageData>

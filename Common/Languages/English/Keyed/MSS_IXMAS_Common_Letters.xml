@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <!-- Quest drop pods arrived -->
+    <LetterLabelQuestDropPodsArrived>Sleigh arrived</LetterLabelQuestDropPodsArrived>
+    <LetterQuestDropPodsArrived>Sleighs with the following contents have arrived:\n\n{0}</LetterQuestDropPodsArrived>
+</LanguageData>

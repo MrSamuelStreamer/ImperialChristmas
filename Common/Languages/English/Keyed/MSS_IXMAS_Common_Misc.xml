@@ -5,4 +5,6 @@
 
     <!-- Legal status -->
     <Colonist>little helper</Colonist>
+    <ColonistDied>Colonist died, now we'll have leftovers...</ColonistDied>
+
 </LanguageData>

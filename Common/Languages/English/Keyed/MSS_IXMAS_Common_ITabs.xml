@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LanguageData>
-    <DismissQuest>Explain that you're too busy and hide this quest.\n\nYou can move it back at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about refused quests.</DismissQuest>
+    <DismissQuest>Explain that you're too busy and hide this quest.\n\nYou can move it back at any time. Its effects and expiry times will proceed as normal. You won't receive notifications about refused quests.</DismissQuest>
     <UnDismissQuest>Free up your plans.\n\nThe quest will be returned to the available quests list, and notifications will be re-enabled.</UnDismissQuest>
     <QuestDismissed>This quest is here because you were too busy.\n\nYou can reconsider the invite until it expires.</QuestDismissed>
     <DeleteQuest>Insist on being busy and remove the quest from the quest list forever.</DeleteQuest>
