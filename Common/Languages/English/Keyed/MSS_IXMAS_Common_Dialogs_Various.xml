@@ -15,4 +15,31 @@
     <SpawningAllThings>Putting up decorations</SpawningAllThings>
     <SpawningColonists>Inviting guests</SpawningColonists>
 
+    <TooBigTransportersMassUsage>The assigned people and items are too heavy for the transport presents.</TooBigTransportersMassUsage>
+    <TooBigTransporterSingleMassUsage>The assigned people and items are too heavy for the sleigh.</TooBigTransporterSingleMassUsage>
+    <CantSendEmptyTransportPods>You can't send empty transport presents.</CantSendEmptyTransportPods>
+    <CantSendEmptyTransporterSingle>You can't send empty sleighs.</CantSendEmptyTransporterSingle>
+    <PawnCantReachTransporters>{1_labelShort} can't reach the transport presents.</PawnCantReachTransporters>
+    <PawnCantReachTransporterSingle>{1_labelShort} can't reach the sleigh.</PawnCantReachTransporterSingle>
+    <TransporterItemIsUnreachableSingle>There is no path between the transport presents and the {0}.</TransporterItemIsUnreachableSingle>
+    <TransporterSingleItemIsUnreachableSingle>There is no path between the sleigh and the {0}.</TransporterSingleItemIsUnreachableSingle>
+    <TransporterItemIsUnreachableMulti>There is no path between the transport presents and {0}x {1}.</TransporterItemIsUnreachableMulti>
+    <TransporterSingleItemIsUnreachableMulti>There is no path between the sleigh and {0}x {1}.</TransporterSingleItemIsUnreachableMulti>
+    <TransporterSingleTooManyColonists>Only {0} little helpers maximum allowed.</TransporterSingleTooManyColonists>
+
+    <MedGroupColonist>Little Helper</MedGroupColonist>
+    <MedGroupImprisonedColonist>Imprisoned little helper</MedGroupImprisonedColonist>
+
+    <ConfirmAbandonHomeWithColonyPawns>Some of your little helpers or animals are in this area. Are you sure you want to abandon it?\n\nThe following people and animals will be left behind:\n\n{0}</ConfirmAbandonHomeWithColonyPawns>
+
+    <!-- Move caravan and leave prisoners and animals behind -->
+    <ConfirmMoveAutoJoinableCaravan>Some animals or prisoners are trying to join this caravan. If you move it, they won't be able to anymore.\n\nAnimals, prisoners, and downed little helpers left behind in a map without any non-downed little helpers are considered abandoned and can be captured by the enemies.\n\nAre you sure you want to move your caravan?</ConfirmMoveAutoJoinableCaravan>
+
+    <!-- Abandon pawn -->
+    <ConfirmBanishPawnDialog_AllColonistsThoughts>All little helpers will get the following thoughts:</ConfirmBanishPawnDialog_AllColonistsThoughts>
+
+    <!-- Send transport pods which are not completely loaded -->
+    <ConfirmSendNotCompletelyLoadedPods>Present group isn't completely loaded. {1_labelShort} is missing. Launch anyway?</ConfirmSendNotCompletelyLoadedPods>
+
+
 </LanguageData>

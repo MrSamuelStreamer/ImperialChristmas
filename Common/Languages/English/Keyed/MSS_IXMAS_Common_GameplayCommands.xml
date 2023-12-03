@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <!-- Send shuttle -->
+    <CommandSendShuttleDesc>Initiate takeoff and have the sleigh fly to its destination.</CommandSendShuttleDesc>
+    <CommandSendShuttleFailUnderRoof>The sleigh is under a roof.</CommandSendShuttleFailUnderRoof>
+
+    <!-- Dismiss sleigh -->
+    <CommandShuttleDismissDesc>Unload all contents and send the sleigh away.</CommandShuttleDismissDesc>
+
+    <CommandForbiddenDesc>Forbidden: Your little helpers are not allowed to interact with this. Click to allow.</CommandForbiddenDesc>
+    <CommandNotForbiddenDesc>Allowed: Your little helpers are allowed to interact with this. Click to forbid.</CommandNotForbiddenDesc>
+
+    <CommandGatherSpotToggleDescActive>Active - little helpers will gather around this object.</CommandGatherSpotToggleDescActive>
+    <CommandGatherSpotToggleDescInactive>Inactive - little helpers will not gather around this object.</CommandGatherSpotToggleDescInactive>
+
+    <CommandMeditationSpotSetOwnerDesc>Assign this meditation spot to be owned by a specific little helper.</CommandMeditationSpotSetOwnerDesc>
+    <CommandGraveAssignColonistLabel>Assign little helper</CommandGraveAssignColonistLabel>
+    <CommandGraveAssignColonistDesc>Assign this grave to be owned by a specific little helper.</CommandGraveAssignColonistDesc>
+    <TurningOnPrisonerBedWarning>Turning on prisoner mode affects the whole room (since prisoners and little helpers cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOnPrisonerBedWarning>
+    <TurningOffPrisonerBedWarning>Turning off prisoner mode affects the whole room (since prisoners and little helpers cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</TurningOffPrisonerBedWarning>
+    <ChangingOwnerTypeBedWarning>Changing bed use affects the whole room (since prisoners, slaves and little helpers cannot sleep in the same room).\n\nThese people will lose ownership of their beds:</ChangingOwnerTypeBedWarning>
+    <CommandToggleDoorHoldOpenDesc>When active, your little helpers will not close the door after passing through.</CommandToggleDoorHoldOpenDesc>
+
+    <CommandSquadAttackDesc>Order selected little helpers to attack designated target.</CommandSquadAttackDesc>
+    <CommandMeleeAttackDesc>Order selected little helpers to attack designated target using only fists and melee weapons.</CommandMeleeAttackDesc>
+    <CommandFormCaravanDesc>Form a group of little helpers able to travel to new areas. The little helpers will gather all the assigned supplies and accompanying animals, leave their current area, and await further orders.</CommandFormCaravanDesc>
+    <CommandReformCaravanDesc>Reform a group of little helpers. The little helpers will leave their current area and await further orders.</CommandReformCaravanDesc>
+    <CommandSettleDesc>Settle in this area. Your little helpers will enter this area and you will be able to start building a new home.</CommandSettleDesc>
+    <CommandAbandonHomeFailAllColonistsThere>All of your little helpers are there.</CommandAbandonHomeFailAllColonistsThere>
+
+    <CommandLaunchGroupFailNotConnectedToFuelingPort>Some transport presents in this loading group are not connected to a fueling port .</CommandLaunchGroupFailNotConnectedToFuelingPort>
+    <CommandLaunchGroupFailNoFuel>Some present launchers in this group have no fuel.</CommandLaunchGroupFailNoFuel>
+    <CommandLaunchGroupFailUnderRoof>Some present launchers are under a roof.</CommandLaunchGroupFailUnderRoof>
+
+    <!-- Load transporter -->
+    <CommandLoadTransporterFailNotConnectedToFuelingPort>The transport present is not connected to a fueling port.</CommandLoadTransporterFailNotConnectedToFuelingPort>
+    <CommandLoadTransporterFailNoFuel>The present launcher has no fuel.</CommandLoadTransporterFailNoFuel>
+
+    <CommandDesignateOpenCloseVentDesc>Designate this vent to be opened or closed. A little helper will come soon to perform the task.</CommandDesignateOpenCloseVentDesc>
+
+</LanguageData>

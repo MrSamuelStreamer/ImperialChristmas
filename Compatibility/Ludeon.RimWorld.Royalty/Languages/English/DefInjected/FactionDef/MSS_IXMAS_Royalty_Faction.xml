@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <Empire.label>Christmas Inc</Empire.label>
+    <Empire.description>A high-tech toy distribution network. Their culture is based on a code of joy, a strict E.L.F system, and enforced festiveness.\n\nThey bring happiness to children all over the rim every year. Using the wonderous sleigh they can traverse the entire world in one night.\n\nThey will refuse to trade with anyone who lacks the appropriate christmas cheer.</Empire.description>
+    <Empire.pawnSingular>elf</Empire.pawnSingular>
+    <Empire.pawnsPlural>elves</Empire.pawnsPlural>
+    <Empire.leaderTitle>santa</Empire.leaderTitle>
+    <Empire.royalFavorLabel>christmas spirit</Empire.royalFavorLabel>
+</LanguageData>

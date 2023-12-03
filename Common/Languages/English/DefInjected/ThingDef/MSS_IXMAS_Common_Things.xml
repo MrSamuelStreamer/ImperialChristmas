@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+    <ActiveDropPod.label>P.R.E.S.E.N.T</ActiveDropPod.label>
+
+    <ShuttleCrashed.label>crashed sleigh</ShuttleCrashed.label>
+
+    <Shuttle.label>sleigh</Shuttle.label>
+    <Shuttle.description>A spacer-tech sleigh designed for transit anywhere within the system. With a little christmas magic, Santa can get almost anywhere in one of these. .</Shuttle.description>
+
+</LanguageData>
