@@ -25,8 +25,8 @@
     <Count.labelFemale>distributor</Count.labelFemale>
     <Count.description>The title of distributor is a well respected station, these individuals are responsible for all the villages in a region of the world and often the conduit from Santa to the villages. They must often spend most of their lives travelling but rarely merit a sleigh ride, having to instead become master riders or master the art of magical travel.</Count.description>
 
-    <Duke.label>local santa</Duke.label>
-    <Duke.labelFemale>local mrs santa</Duke.labelFemale>
+    <Duke.label>Local Santa</Duke.label>
+    <Duke.labelFemale>local Mrs. Santa</Duke.labelFemale>
     <Duke.description>The title of santa applies at many levels, the local santa. Will often make public appearances for Santa and drive christmas within a region. Many people may never even know that the Santa they've interacted with is only a local santa.</Duke.description>
 
     <Consul.label>claus</Consul.label>
