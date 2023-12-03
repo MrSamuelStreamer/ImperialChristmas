@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <LanguageData>
-    <Autosaving>Saving your Christmas tale...</Autosaving>
+    <Autosaving>Making a list, and checking it twice</Autosaving>
 
+    <!-- Legal status -->
+    <Colonist>little helper</Colonist>
     <ColonistDied>Colonist died, now we'll have leftovers...</ColonistDied>
 
 </LanguageData>
