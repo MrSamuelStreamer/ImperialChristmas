@@ -1,20 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <Patch>
-    <match Class="PatchOperationSequence">
-        <operations>
-            <li Class="PatchOperationReplace">
-                <xpath>/Defs/ThingDef[defName="Plant_TreePine"]/graphicData/texPath</xpath>
-                <value>
-                    <texPath>Things/Building/Misc/ChristmasTree/CT_Pine</texPath>			
-                </value>
-            </li>
-             <li Class="PatchOperationReplace">
-                <xpath>/Defs/ThingDef[defName="Plant_TreeBirch"]/graphicData/texPath</xpath>
-                <value>
-                    <texPath>Things/Building/Misc/ChristmasTree/CT_Birch</texPath>			
-                </value>
-            </li>  
-            <!-- Probably worth adding a check mod for royalty here and retexturing anima trees with CT_Anima.png, and same for gauranlen and ideo as well -->
-        </operations>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreePine"]/graphicData/texPath</xpath>
+    <value>
+      <texPath>Things/Building/Misc/ChristmasTree/CT_Pine</texPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreePine"]/plant/pollutedGraphicPath</xpath>
+    <value>
+      <pollutedGraphicPath>Things/Building/Misc/ChristmasTree/CT_Pine</pollutedGraphicPath>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreeBirch"]/graphicData/texPath</xpath>
+    <value>
+      <texPath>Things/Building/Misc/ChristmasTree/CT_Birch</texPath>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreeBirch"]/plant/leaflessGraphicPath</xpath>
+    <value>
+      <leaflessGraphicPath>Things/Building/Misc/ChristmasTree/CT_Birch</leaflessGraphicPath>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Plant_TreeAnima"]/graphicData/texPath</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Plant_TreeAnima"]/graphicData/texPath</xpath>
+      <value>
+        <texPath>Things/Building/Misc/ChristmasTree/CT_Anima</texPath>
+      </value>
     </match>
+  </Operation>
+
+  <Operation Class="PatchOperationConditional">
+    <xpath>Defs/ThingDef[defName="Plant_TreeGauranlen"]/graphicData/texPath</xpath>
+    <match Class="PatchOperationReplace">
+      <xpath>Defs/ThingDef[defName="Plant_TreeGauranlen"]/graphicData/texPath</xpath>
+      <value>
+        <texPath>Things/Building/Misc/ChristmasTree/CT_Gauranlen</texPath>
+      </value>
+    </match>
+  </Operation>
+
+  <!-- Update the rendering class to Graphic_Single -->
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/ThingDef[defName="Plant_TreeBirch" or defName="Plant_TreePine" or defName="Plant_TreeAnima" or defName="Plant_TreeGauranlen"]/graphicData/graphicClass</xpath>
+    <value>
+      <graphicClass>Graphic_Single</graphicClass>
+    </value>
+  </Operation>
 </Patch>
