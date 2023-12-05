@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <XenotypeDef>
+    <defName>MSS_IXMAS_Grinch</defName>
+    <label>Grinch</label>
+    <description>A Grinch is xenotype of cynical, miserable, ugly folk, commonly spouting green hair, big brows, and long spindly fingers. Many Grinch are fantastic crafters and have the strength of forty-seven men.</description>
+    <descriptionShort>A green, cynical xenotype that accels at crafting and physical strength.</descriptionShort>
+    <iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon10</iconPath>
+    <inheritable>true</inheritable>
+    <genes>
+      <li>Mood_Pessimist</li>
+      <li>MaxTemp_SmallDecrease</li>
+      <li>MeleeDamage_Strong</li>
+      <li>Eyes_Red</li>
+      <li>Hair_ShortOnly</li>
+      <li>Brow_Heavy</li>
+      <li>VoiceRoar</li>
+      <li>Body_Thin</li>
+      <li>Hair_LightGreen</li>
+      <li>Skin_Green</li>
+      <li>ElongatedFingers</li>
+      <li>Furskin</li>
+      <li>AptitudeRemarkable_Melee</li>
+      <li>AptitudeTerrible_Mining</li>
+      <li>AptitudeStrong_Animals</li>
+      <li>AptitudeRemarkable_Crafting</li>
+      <li>AptitudeTerrible_Social</li>
+      <li>AptitudeTerrible_Intellectual</li>
+    </genes>
+  </XenotypeDef>
+</Defs>

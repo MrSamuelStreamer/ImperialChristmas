@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <XenotypeDef>
+    <defName>MSS_IXMAS_Yeti</defName>
+    <label>Yeti</label>
+    <description>Yeti's are massive, elusive humans who like to mind their own business and enjoy a nice relaxing lie down in 15 meters of snow. Getting on the wrong side of a yeti is a dangerous idea.</description>
+    <descriptionShort>Large, powerful people with strong resistance to damage.</descriptionShort>
+    <iconPath>UI/Icons/Xenotypes/Custom/CustomXenotypeIcon3</iconPath>
+    <inheritable>true</inheritable>
+    <genes>
+      <li>AnimalWarcall</li>
+      <li>WoundHealing_Fast</li>
+      <li>NakedSpeed</li>
+      <li>MinTemp_LargeDecrease</li>
+      <li>UVSensitivity_Mild</li>
+      <li>Aggression_Aggressive</li>
+      <li>Sleepy</li>
+      <li>Robust</li>
+      <li>Beauty_Ugly</li>
+      <li>Hair_LongOnly</li>
+      <li>Beard_BushyOnly</li>
+      <li>Ears_Cat</li>
+      <li>Jaw_Heavy</li>
+      <li>Brow_Heavy</li>
+      <li>VoiceRoar</li>
+      <li>FacialRidges</li>
+      <li>Body_Hulk</li>
+      <li>Hair_SnowWhite</li>
+      <li>Skin_SheerWhite</li>
+      <li>VRE_FelineTail</li>
+      <li>Furskin</li>
+      <li>Tail_Furry</li>
+      <li>AptitudeTerrible_Shooting</li>
+      <li>AptitudeRemarkable_Melee</li>
+      <li>AptitudeTerrible_Construction</li>
+      <li>AptitudeRemarkable_Animals</li>
+      <li>AptitudeTerrible_Intellectual</li>
+      <li>SZBodySize_40</li>
+    </genes>
+  </XenotypeDef>
+</Defs>
