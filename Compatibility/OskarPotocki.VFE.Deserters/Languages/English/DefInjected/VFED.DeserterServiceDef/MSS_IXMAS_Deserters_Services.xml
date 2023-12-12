@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFED_CallShuttle.label>call sleigh</VFED_CallShuttle.label>
+  <VFED_CallShuttle.description>Call a one-way deserter sleigh for your own use, which will transport colonists, items, and animals up to 70 tiles away.</VFED_CallShuttle.description>
+
+  <VFED_TauntImperials.label>taunt Santa's forces</VFED_TauntImperials.label>
+  <VFED_TauntImperials.description>Spend intel to taunt an E.L.F strike force to attack your colony.</VFED_TauntImperials.description>
+</LanguageData>
