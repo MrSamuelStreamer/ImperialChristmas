@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFED_AerodroneStation.label>auto-sleigh station</VFED_AerodroneStation.label>
+  <VFED_AerodroneStation.description>An E.L.F auto-sleigh station</VFED_AerodroneStation.description>
+  <VFED_ControlStation.description>An E.L.F control station</VFED_ControlStation.description>
+  <VFED_EmpireRuins.label>Santa Claus's Crashed Sleigh</VFED_EmpireRuins.label>
+  <VFED_EmpireRuins.description>The former personal Sleigh of Santa Claus, once a seat of power, now crashed.</VFED_EmpireRuins.description>
+  <VFED_ImperialConvoy.label>E.L.F Convoy</VFED_ImperialConvoy.label>
+  <VFED_ImperialConvoy.description>An E.L.F convoy</VFED_ImperialConvoy.description>
+  <VFED_PlotMission_DownedShuttle.label>downed sleigh</VFED_PlotMission_DownedShuttle.label>
+  <VFED_PlotMission_DownedShuttle.description>A downed sleigh carrying a key North Pole personage.</VFED_PlotMission_DownedShuttle.description>
+  <VFED_ShuttleStagingPost.label>sleigh staging post</VFED_ShuttleStagingPost.label>
+  <VFED_ShuttleStagingPost.description>An E.L.F sleigh staging post.</VFED_ShuttleStagingPost.description>
+  <VFED_SupplyDepot.description>A E.L.F supply depot.</VFED_SupplyDepot.description>
+  <VFED_TechPrinter.description>A North Pole Tech-Printer Center.</VFED_TechPrinter.description>
+  <VFED_Underfarm.label>underfarm</VFED_Underfarm.label>
+  <VFED_Underfarm.description>A North Pole Underfarm.</VFED_Underfarm.description>
+  <VFED_ZeusCannonComplex.description>A secret E.L.F installation equipped with a large number of powerful zeus cannons, capable of bringing down large objects from the orbit.</VFED_ZeusCannonComplex.description>
+</LanguageData>
