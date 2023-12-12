@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Knight")]</xpath>
+    <value>
+      <li>Selfish sleigher</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Praetor")]</xpath>
+    <value>
+      <li>Wicked workshop manager</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Baron")]</xpath>
+    <value>
+      <li>Vile village master</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Count")]</xpath>
+    <value>
+      <li>Despicable distributor</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==VFEE_Archcount")]</xpath>
+    <value>
+      <li>Abusive Arch-Distributor</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==VFEE_Marquess")]</xpath>
+    <value>
+      <li>Salacious Supply Enforcer</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Duke")]</xpath>
+    <value>
+      <li>Licentious Local Santa</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==VFEE_Archduke")]</xpath>
+    <value>
+      <li>Sordid System Santa</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Consul")]</xpath>
+    <value>
+      <li>Corrupted claus</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==VFEE_Magister")]</xpath>
+    <value>
+      <li>Hateful Head Elf</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==VFEE_Despot")]</xpath>
+    <value>
+      <li>Sickening Saint Nicolas</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Stellarch")]</xpath>
+    <value>
+      <li>Scumbag santa</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==VFEE_HighStellarch")]</xpath>
+    <value>
+      <li>Foul Father Christmas</li>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/RulePackDef[defName="VFED_PlotName"]/rulePack/rulesStrings/li[contains(text(), "nobleTitle==Emperor")]</xpath>
+    <value>
+      <li>Sadistic santa claus</li>
+    </value>
+  </Operation>
+</Patch>

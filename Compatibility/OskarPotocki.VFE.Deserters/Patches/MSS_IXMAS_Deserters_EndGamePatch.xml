@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/QuestScriptDef[defName="VFED_DeserterEndgame"]/root/nodes/li[@Class="QuestNode_Letter"]/label[@TKey="LetterLabelShuttleArrived"]</xpath>
+    <value>
+      <label TKey="LetterLabelShuttleArrived">Sleigh arrived</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/QuestScriptDef[defName="VFED_DeserterEndgame"]/root/nodes/li[@Class="QuestNode_Signal" and inSignal="pickupShipThing.Destroyed"]/node/nodes/li[@Class="QuestNode_Letter"]/label[@TKey="LetterLabelShuttleDestroyed"]</xpath>
+    <value>
+      <label TKey="LetterLabelShuttleDestroyed">Sleigh destroyed</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/QuestScriptDef[defName="VFED_DeserterEndgame"]/root/nodes/li[@Class="QuestNode_Signal" and inSignal="pickupShipThing.Destroyed"]/node/nodes/li[@Class="QuestNode_Letter"]/label[@TKey="LetterTextShuttleDestroyed"]</xpath>
+    <value>
+      <label TKey="LetterTextShuttleDestroyed">The sleigh sent to collect colonists has been destroyed.</label>
+    </value>
+  </Operation>
+</Patch>

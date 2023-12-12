@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<LanguageData>
+  <VFED.SurveillancePillarActivated>You have activated an E.L.F surveillance pillar. Visibility of your faction has increased by {1}. It is now {0}.</VFED.SurveillancePillarActivated>
+  <VFED.ResponseComing>E.L.F response</VFED.ResponseComing>
+  <VFED.ResponseComingDesc>One of Santa's {0} is on its way to this location. It will arrive in {1}s.</VFED.ResponseComingDesc>
+  <VFED.ResponseMessage>Due to triggering an E.L.F response, your visibility has increased by {0}. It is now {1}. In the future, you can avoid increasing the visibility by completing the mission before the response arrives.</VFED.ResponseMessage>
+  <VFED.ExtractIntel.Desc>Extract intel from the brain of one of Santa's underlings. They may be alive, dead, or downed, but the brain must be present. Will destroy the brain.</VFED.ExtractIntel.Desc>
+  <VFED.ImperialPatrol.Desc>{0} has encountered an E.L.F patrol from {1}. They have been spotted! {0} can try and escape, but this will inevitably increase the visibility of {2}. Fighting the patrol might be tough, but it will keep {2} safe. The patrol consists of:\n\n{3}</VFED.ImperialPatrol.Desc>
+  <VFED.ImperialPatrol.GaveUp>{0} has given up {1} to Santa. It’s unlikely you will ever see them again. Santa doesn't take kindly to saboteurs.</VFED.ImperialPatrol.GaveUp>
+  <VFED.AerodroneBombardment>Auto-sleigh bombardment</VFED.AerodroneBombardment>
+  <VFED.AerodroneBombardment.Desc>The {0} has dispatched a number of sleighs to your location. They suspect you are harboring deserters with ill intention towards Santa.\nAn auto-sleigh is an unmanned atmospheric sleigh designed for military purposes. Controlled by highly skilled E.L.F specialists from well defended installations, the auto-sleigh is a highly effective tool for eliminating Santa's enemies. Equipped with advanced sensors and targeting systems, the auto-sleigh can detect and track targets from great distances. Once a target has been identified, the auto-sleigh will unleash a devastating salvo of precision "gifts", each one designed to cause maximum damage and destruction.\nThe Empire has pinpointed the location of your critical infrastructure and the auto-sleighs will shortly initiate their bombardment. Evacuation is advised.
+  </VFED.AerodroneBombardment.Desc>
+  <VFED.DivineInferno.Init>Spirit Onslaught initiated</VFED.DivineInferno.Init>
+  <VFED.DivineInferno.Desc>The orbital Ribbon satellites have finished arranging into a beautiful snowflake pattern above your colony. What comes next can only be described as total destruction. The ribbons of concentrated christmas spirit fire down from the sky, creating a web of energy that systematically levels everything in its path. The terrain itself seems to buckle and heave as the beams slice through the earth, leaving behind deep crevices and rubble-filled craters. People, vehicles, and even buildings are reduced to nothing more than dust and ash in a matter of seconds. The air itself is superheated by the intense energy of the ribbons, creating a blast wave that can travel for miles.\nThere is no escape from the Spirit Onslaught. Those caught in its path are instantly vaporized, leaving behind nothing but charred remnants of what was once there. Even underground shelters are no match for the destructive power of the ribbons, as they cut through the earth like a hot knife through butter.\nThe aftermath of a Spirit Onslaught is a wasteland of destruction. The landscape is unrecognizable, with little more than rubble and ash as far as the eye can see. The air is still thick with the acrid smell of burnt flesh and melting metal. The once-thriving colony is now nothing more than a scorched and lifeless husk.</VFED.DivineInferno.Desc>
+  <VFED.ShotsFiredLeft>{0} ribbons fired, {1} ribbons left</VFED.ShotsFiredLeft>
+  <VFED.VisibilityIncreases.Desc>Visibility will increase by {0}. This may lead to more and stronger E.L.F responses.</VFED.VisibilityIncreases.Desc>
+  <VFED.VisibilityDecreases.Desc>Visibility will decrease by {0}. This may reduce E.L.F responses.</VFED.VisibilityDecreases.Desc>
+  <VFED.ServiceIncreasedGoodwill>Goodwill with {0} increased by 5 due to positive rumors from deserters from Santa.</VFED.ServiceIncreasedGoodwill>
+  <VFED.DetectedWarning>You have been detected by security. The E.L.F is deploying against you.</VFED.DetectedWarning>
+  <VFED.HighAlertWarning>The E.L.F are moving to high alert.</VFED.HighAlertWarning>
+  <VFED.BurnoutWarning>Building a burnout intel scraper will be considered a declaration of war with Santa.</VFED.BurnoutWarning>
+  <VFED.ActivateScraper.Desc>Enable intel scraper countdown, which will release a pulse every 60 seconds, giving you a chance of obtaining valuable intel at a chance of triggering E.l.F investigation.</VFED.ActivateScraper.Desc>
+  <VFED.BurnoutIntelGained>Burnout intel scraper intercepted North Pole communications and generated {0} intel.</VFED.BurnoutIntelGained>
+  <VFED.BurnoutCriticalIntelGained>Burnout intel scraper intercepted high value North Pole communication and generated {0} critical intel.</VFED.BurnoutCriticalIntelGained>
+  <VFED.BurnoutVisibilityIncreased>Burnout intel scraper attracted E.L.F attention and has increased your visibility by {0}. (Current visibility is {1}.)</VFED.BurnoutVisibilityIncreased>
+  <VFED.BurnoutRaid>Burnout intel scraper was intercepted by an E.L.F patrol nearby. They are moving in to engage.</VFED.BurnoutRaid>
+</LanguageData>

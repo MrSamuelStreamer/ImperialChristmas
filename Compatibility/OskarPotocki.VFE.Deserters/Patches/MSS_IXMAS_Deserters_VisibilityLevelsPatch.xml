@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Patch>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_Rumors"]/specialEffects/li[@Class="VFED.VisibilityEffect_Incident" and incident="VFED_ImperialPatrol"]/label</xpath>
+    <value>
+      <label>E.L.F patrol caravan event becomes active</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_Rumors"]/specialEffects/li[@Class="VFED.VisibilityEffect_ArmySize"]/label</xpath>
+    <value>
+      <label>All north pole armies on all quest locations where Santa's Empire would spawn are larger</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_News"]/specialEffects/li[@Class="VFED.VisibilityEffect_RaidChance"]/label</xpath>
+    <value>
+      <label>Raids from the Empire faction happen more often</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_News"]/specialEffects/li[@Class="VFED.VisibilityEffect_ArmySize"]/label</xpath>
+    <value>
+      <label>All north pole armies on all quest locations where Santa's Empire would spawn are larger still</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_News"]/specialEffects/li[@Class="VFED.VisibilityEffect_Incident" and incident="VFED_PropagandaDrop"]/label</xpath>
+    <value>
+      <label>North Pole Propaganda can now drop</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_PublicEnemy"]/specialEffects/li[@Class="VFED.VisibilityEffect_RaidChance"]/label</xpath>
+    <value>
+      <label>Raids from the Empire faction happen much more often</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_PublicEnemy"]/specialEffects/li[@Class="VFED.VisibilityEffect_ArmySize"]/label</xpath>
+    <value>
+      <label>All north pole armies on all quest locations where Santa's Empire would spawn are even larger still</label>
+    </value>
+  </Operation>
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_PublicEnemy"]/specialEffects/li[@Class="VFED.VisibilityEffect_AerodroneBombardment"]/label</xpath>
+    <value>
+      <label>Auto-sleigh bombardment event becomes available.</label>
+    </value>
+  </Operation>
+
+  <Operation Class="PatchOperationReplace">
+    <xpath>Defs/VFED.VisibilityLevelDef[defName="VFED_DivineInferno"]/specialEffects/li[@Class="VFED.VisibilityEffect_GameCondition" and gameCondition="VFED_DivineInferno"]/label</xpath>
+    <value>
+      <label>As soon as player reaches 100 Visibility, Spirit Onslaught countdown triggers.</label>
+    </value>
+  </Operation>
+</Patch>

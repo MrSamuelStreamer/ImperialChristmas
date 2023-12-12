@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFED_ImperialDefenses.label>E.L.F defenses</VFED_ImperialDefenses.label>
+  <VFED_ImperialDefenses.description>Create E.L.F megaturrets: Kontarion, Onager and Palintone, as well as their ammunition.</VFED_ImperialDefenses.description>
+  <VFED_ImperialWarSolutions.label>E.L.F war solution</VFED_ImperialWarSolutions.label>
+  <VFED_ImperialWarSolutions.description>Craft powerful E.L.F mortar shells, such as shrapnel, armor piercing and cluster.</VFED_ImperialWarSolutions.description>
+  <VFED_RemoteDemolition.label>E.L.F remote ordinance</VFED_RemoteDemolition.label>
+</LanguageData>

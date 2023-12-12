@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+  <VFED_AerodroneStation.label>deserter sleigh</VFED_AerodroneStation.label>
+  <VFED_AerodroneStation.questNameRules.rulesStrings>
+    <li>questName->Auto-sleigh station sabotage</li>
+  </VFED_AerodroneStation.questNameRules.rulesStrings>
+
+  <VFED_AerodroneStation.questDescriptionRules.rulesStrings>
+    <li>questDescription->Thanks to the intel we have obtained, we now know the location of an auto-sleigh station belonging to [empire_name]. These stations recharge and reload powerful auto-sleighs - autonomous, unmanned aerial vehicles that can bombard targets with powerful explosive salvos.
+\nThese drones are a threat to everyone who disagrees with Santa. They need to be destroyed.
+\nWe might find some useful supplies scattered around the station. It's crucial to remember that ammunition stacks and auto-sleigh batteries are highly volatile, and we might be able to use them to our advantage.
+\nThe auto-sleigh station is protected by:
+[forces_description]
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the E.L.F.
+\nThe station is protected by surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this mission is to destroy all auto-sleighs currently stationed here by any means necessary.
+\nOnce we arrive at the station, we can expect an E.L.F response if our visibility is high enough. We will only have a limited amount of time to complete the mission.
+    </li>
+  </VFED_AerodroneStation.questDescriptionRules.rulesStrings>
+
+  <VFED_ControlStationRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription->The informant network has relayed us the information of a control station belonging to [empire_name]. These forward-placed outposts survey the area around North Pole points of interest and alert them of any imminent threat as well as collecting information for the naughty and nice lists.
+\nWe might find some useful supplies scattered around the control station. If we have the time, we should take what we can.
+\nThe control station is protected by:
+[forces_description]
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the E.L.F army.
+\nThe control station is protected by a large number of surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy the surveillance station terminal. Once that is done, the reward will arrive and we will have to make our escape. The terminal is usually well defended and placed inside a fortified building.
+\nOnce we arrive at the control station, we can expect an E.L.F response if our visibility is high enough. We will only have a limited amount of time to complete the mission.
+    </li>
+  </VFED_ControlStationRaid.questDescriptionRules.rulesStrings>
+
+  <VFED_EmpireBargain.questDescriptionRules.rulesStrings>
+    <li>questDescription->News of the recent assassination of [lastTarget_nameFull] has spread like wildfire across the upper echelons of [empire_name], fueling the flames of dissent and rebellion. Defectors, once seen as insignificant, have begun seizing victories on various fronts, rattling the gilded cage of the North Pole. In the shadowy halls of the north pole, whispers stir the air, whispers of desperate bargains offered to the surging rebel forces.
+\nIntriguingly, one such proposition has found its way to you. Envoys from the North Pole have dispatched an encrypted missive to [map_label]. In carefully coded language, they detail the bounty they're prepared to lavish upon you, should you choose to abandon your deserters' colors:
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the North Pole will bargain with you again if you continue on your path. Next deals offered might be more bountiful.
+    </li>
+    <li>questDescription->The untimely demise of [lastTarget_nameFull] has sent shockwaves through the upper echelons of [empire_name], fanning the embers of dissent into a roaring blaze. What once were dismissed as trivial defections are now victorious battles on numerous fronts, shaking the once secure stronghold of the North Pole. Amid the hushed murmurings, whispers of frantic concessions offered to the rapidly rising rebel forces ripple through the air.
+\nThis proposition is extended to you as well. Emissaries of the empire have dispatched a ciphered communique to [map_label], outlining the considerable benefits you stand to gain, should you decide to forsake the deserters.
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the North Pole will bargain with you again if you continue on your path. Next deals offered might be more bountiful.
+    </li>
+    <li>questDescription->Word of [lastTarget_nameFull]'s sudden assassination has cast a chill across the noble circles of [empire_name], kindling a tempest of revolt and insubordination. Those who had once defected, dismissed as inconsequential, are now seizing key victories, causing a seismic shift in the power dynamics of the North Pole. Secreted away in the labyrinthine depths of the court, rumors of hasty deals offered to the ever-strengthening rebellion echo eerily.
+\nYou are not excluded from this tempting deal. North Pole ambassadors have transmitted a cryptic message to [map_label], shedding light on the incentives you stand to accrue if you abandon the deserters.
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the North Pole will bargain with you again if you continue on your path. Next deals offered might be more bountiful.
+    </li>
+    <li>questDescription->The sudden and brutal assassination of [lastTarget_nameFull] has swept through the elite ranks of [empire_name], stoking the flames of insurrection and defiance. Defectors, once scorned as negligible, are achieving unexpected victories, shaking the seemingly impervious bastion of the North Pole. In the shadowy corners of the workshops, murmurs of desperate alliances offered to the surging rebels snake through the air.
+\nThis appealing bargain has also been presented to you. Envoys of the empire have forwarded a concealed missive to your outpost in [map_label], hinting at the boons you could acquire if you dissociate from the deserters.
+[reward_description]
+\nIf you accept, you will no longer be aligned with the deserters. You will lose access to the Deserter network, and you will never be able to rejoin their ranks again. Your visibility will be lowered to 0 and you will become a member of [empire_name]. You will be able to use all the perks that come from being a noble. Any currently active deserter-related quests will automatically fail.
+You will also have to face off against a deserter retaliation force, consisting of:
+[raid/raidPawnKinds]
+\nIt is possible, but not guaranteed, that the North Pole will bargain with you again if you continue on your path. Next deals offered might be more bountiful.
+    </li>
+  </VFED_EmpireBargain.questDescriptionRules.rulesStrings>
+
+  <VFED_EmpireRuins.questNameRules.rulesStrings>
+    <li>questName->Ruins of the North Pole</li>
+  </VFED_EmpireRuins.questNameRules.rulesStrings>
+  <VFED_EmpireRuins.questDescriptionRules.rulesStrings>
+    <li>questDescription->The great collapse of [empire_name] was a historic event, one that changed the course of this planet. Santa Claus's once-majestic Sleigh, a testament to the North Pole's technological prowess, now lies wrecked in a secluded location.
+\nThe debris from this massive sleigh is scattered across miles of treacherous terrain. Though shattered and dormant, it is believed that buried within its molten metallic embrace lies the last of the North Pole technology - techprints, unique devices, and possibly even machinery not yet seen by the world. The potential for advancement, and perhaps dominance, is high for whoever can harness these forgotten wonders.
+\nMoreover, you can expect this place to be the final resting place of Santa's lieutenants. Santa Claus, the most revered figure of Christmas, may have met his end aboard that very sleigh. If true, his remains, and those of his lieutenants, may be a treasure trove of their own, revealing secrets or carrying possessions of untold value.
+\nTime is of the essence. The crash has not gone unnoticed. Other factions, hungry for power and knowledge, are setting their sights on the wreck. If we don’t make haste, we risk losing this opportunity to the winds of time and the ambitions of rivals.</li>
+  </VFED_EmpireRuins.questDescriptionRules.rulesStrings>
+
+  <VFED_DeserterEndgame.questNameRules.rulesStrings>
+    <li>questName->Ferocious Santa Claus</li>
+  </VFED_DeserterEndgame.questNameRules.rulesStrings>
+  <VFED_DeserterEndgame.questDescriptionRules.rulesStrings>
+    <li>questDescription->[noble_nameFull] is at the zenith of the monstrous [empire_name]. An egocentric ruler who values tradition over the lives of [noble_possessive] people, [noble_pronoun] has to be stopped at all costs. [noble_pronoun] refuses to adapt to the new reality, and instead insists on maintaining old ways, leading to the wasteful loss of countless lives.
+\n\nDespite the warnings we have given [noble_objective] and the obvious signs of impending doom, [noble_pronoun] remains obstinate in [noble_possessive] ways, driving the followers of Christmas towards certain destruction. The only hope for the deserters is to take out the Sleigh of Santa Claus in orbit, which gives the forces of Christmas an overwhelming military advantage.
+\n\nIn order to do that, we have to take control of three Zeus cannons located in various places on the planet. This mission needs to be executed on all fronts simultaneously, as we will only have a limited window of opportunity once the first Zeus cannon is taken. Activating all three of them at the same time will ensure the total obliteration of the Sleigh, after which the followers of Christmas will have no choice but to dissolve.</li>
+  </VFED_DeserterEndgame.questDescriptionRules.rulesStrings>
+  <VFED_DeserterEndgame.questContentRules.rulesStrings>
+    <li>shuttleLetterText->All deserter cells on the planet have been informed about what is going to occur now. Everyone knows that now is the only time to strike.
+\n\nA deserter sleigh has landed in your area. It is tasked with delivering a deserter strike force, including whoever you choose to send on this mission, into a Zeus cannon installation. Your soldiers will be assisted by deserter reinforcements.
+\n\nThe installation is heavily defended. Furthermore, E.L.F reinforcements will be dispatched almost immediately upon landing. You can expect the enemy to bring their best and most powerful weapons to try and stop you.
+\n\nYour objective is to capture the control room of the Zeus cannon batteries. As long as you are within the range of the main control station, Zeus cannons will continuously fire at the key sleigh in orbit. The target is heavily armored, and bringing it down will require a lot of firepower.
+\n\nThe installation is defended by an E.L.F mega high-shield, which should keep you safe from auto-sleigh bombardments and slicer ribbons as long as you maintain a constant power supply to it.</li>
+  </VFED_DeserterEndgame.questContentRules.rulesStrings>
+
+  <VFED_ImperialConvoy.questNameRules.rulesStrings>
+    <li>questName->E.L.F convoy</li>
+  </VFED_ImperialConvoy.questNameRules.rulesStrings>
+  <VFED_ImperialConvoy.questDescriptionRules.rulesStrings>
+    <li>questDescription->We have been informed of a maxpack convoy belonging to [empire_name] in our vicinity. The convoy had to make an emergency stop, which is a perfect opportunity for us to raid it. Whilst maxpacks will be impervious to any break-in attempts, there is bound to be a lot of other valuables scattered around the trucks.
+\nWe need to eliminate everyone in the convoy before they move on.
+\nThe convoy is protected by:
+[forces_description]
+\nDuring unexpected stops like this, the E.L.F is known to place strike buoys around the temporary camps. These strike buoys will alert the E.L.F of our location, and will trigger a nearby auto-sleigh to fire at the buoy location. We should make it our priority to avoid these traps.
+\nThe objective of this assignment is to eliminate all enemy personnel in the area. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the convoy location, we can expect an E.L.F response if our visibility is high enough. We will only have a limited amount of time to complete the mission.</li>
+  </VFED_ImperialConvoy.questDescriptionRules.rulesStrings>
+
+  <VFED_ImperialUnderfarmRaid.questNameRules.rulesStrings>
+    <li>questName->Underfarm raid</li>
+  </VFED_ImperialUnderfarmRaid.questNameRules.rulesStrings>
+  <VFED_ImperialUnderfarmRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription->Our intel suggests that [empire_name] has an underfarm complex near our location. Underfarms provide North Pole settlements with a steady supply of food. Destroying this underfarm complex is bound to cause unrest in the lower ranks, as food becomes scarce.
+\nThe location features huge swathes of empty terrain with no cover in sight. We should think how we want to approach this.
+\nThe underfarm complex is protected by:
+[forces_description].
+\nA kontarion turret is located at the installation. It’s a powerful, long-range weapon used by the E.L.F to take out enemy targets from afar. Kontarion turret fires ultra-dense uranium slugs at incredible speeds, penetrating even the heaviest armor. Its ammo needs to be stored right next to it, and a precise shot might set off a chain explosion.
+\nThe underfarm complex is protected by a number of surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy the water mains that supply the underfarms. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the complex, we can expect an E.L.F response if our visibility is high enough. We will only have a limited amount of time to complete the mission.</li>
+  </VFED_ImperialUnderfarmRaid.questDescriptionRules.rulesStrings>
+
+  <VFED_TechprinterDemolition.questDescriptionRules.rulesStrings>
+    <li>questDescription->We have received the news of a techprinter installation belonging to [empire_name] near our location. Techprinters are a huge environmental hazard, and are used by techfriars to replicate their knowledge on techprints.
+\nTechite discs used in this process are extremely toxic and flammable. We might be able to ignite a stack of these discs and see the inferno unfold.
+\nThe techprinter installation is protected by:
+[forces_description].
+\nTwo palintone turrets are located at the installation. They are powerful, anti-infantry weapons firing large-caliber shells at incredible speeds, dealing heavy damage over significant ranges. Their ammo needs to be stored right next to them, and a precise shot might set off a chain explosion.
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the E.L.F.
+\nTwo techfriars are most certainly at the installation. Killing them is not necessary.
+\nThe techprinter installation is protected by a number of surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy the techprinters by any means necessary. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the installation, we can expect an E.L.F response if our visibility is high enough. We will only have a limited amount of time to complete the mission.</li>  </VFED_TechprinterDemolition.questDescriptionRules.rulesStrings>
+
+  <VFED_SupplyDepotRaid.questDescriptionRules.rulesStrings>
+    <li>questDescription->The intel we have gathered allowed us to gain insight into the location of a supply depot belonging to [empire_name]. Supply depots like that are often scattered around workshops and serve as secure stockpiles for the most valuable resources. Keeping these supply depots hidden away discourages any raiders from attacking these settlements.
+\nThe compound is guaranteed to contain numerous supply crates. Stealing these items is bound to slow down the war effort for Santa Claus.
+\nIt is also possible we will find additional Biosecured crates, which can only be opened by ranked people under Santa Claus.
+\nThe supply depot is protected by:
+[forces_description]
+\nThe compound is protected by surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to open all supply crates in the area. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the compound, we can expect an E.L.F response if our visibility is high enough. We will only have a limited amount of time to complete the mission.</li>
+  </VFED_SupplyDepotRaid.questDescriptionRules.rulesStrings>
+
+  <VFED_ShuttleStagingPost.questNameRules.rulesStrings>
+    <li>questName->Sleigh staging post</li>
+  </VFED_ShuttleStagingPost.questNameRules.rulesStrings>
+  <VFED_ShuttleStagingPost.questDescriptionRules.rulesStrings>
+    <li>questDescription->Our intel allowed us to pinpoint the location of a sleigh staging post belonging to [empire_name]. These staging posts allow sleighs to refuel between destinations. Destroying it will greatly hinder the ability of the E.L.F to freely travel the planet and resupply their forward bases.
+\nWe may be able to trigger a chain detonation of the fuel containers to create havoc and make our job easier.
+\nWe might find some useful supplies scattered around the staging post. If we have the time, we should take what we can.
+\nThe sleigh staging post is protected by:
+[forces_description]
+\nWe have also been informed that the location is protected by a number of ground-mounted striker turrets. Despite the limited range, these turrets can easily reveal our approach and provide covering fire for the E.L.F.
+\nThe staging post is protected by surveillance pillars. They should not be approached, and instead should be disabled from afar - either by destroying them, or cutting off their power. Once activated, they will greatly increase our visibility.
+\nThe objective of this assignment is to destroy all fuel containers. Once that is done, the reward will arrive and we will have to make our escape.
+\nOnce we arrive at the staging post, we can expect an E.L.F response if our visibility is high enough. We will only have a limited amount of time to complete the mission.</li>
+  </VFED_ShuttleStagingPost.questDescriptionRules.rulesStrings>
+
+</LanguageData>
