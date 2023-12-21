@@ -7,5 +7,6 @@
     <li IfModActive="oskarpotocki.vfe.empire">Compatibility/oskarpotocki.vfe.empire</li>
     <li IfModActive="happycam.christmastreesexpanded">Compatibility/happycam.christmastreesexpanded</li>
     <li IfModActive="OskarPotocki.VFE.Deserters">Compatibility/OskarPotocki.VFE.Deserters</li>
+    <li IfModActive="vanillaexpanded.vcooke">Compatibility/vanillaexpanded.vcooke</li>
   </v1.4>
 </loadFolders>

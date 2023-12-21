@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <RecipeDef>
+    <defName>MSS_IXMAS_Make_MurderCookies</defName>
+    <label>make murder cookies</label>
+    <description>Make Murder Cookies, a christmas surprise for the unsuspecting Imperial monster.Not for regular colonist consumption.</description>
+    <jobString>Baking a Christmas surprise.</jobString>
+    <workAmount>400</workAmount>
+    <workSpeedStat>CookSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <recipeUsers>
+			<li>ElectricStove</li>	
+			<li>FueledStove</li>			
+		</recipeUsers>
+		<ingredients>
+			<li MayRequire="vanillaexpanded.vcooke">
+				<filter>
+					<thingDefs>
+						<li>VCE_Flour</li>
+					</thingDefs>
+				</filter>
+				<count>5</count>
+			</li>
+      <li>
+				<filter>
+					<thingDefs>
+						<li>Chocolate</li>
+					</thingDefs>
+				</filter>
+				<count>5</count>
+			</li>
+		</ingredients>
+    <workSkill>Cooking</workSkill>
+    <products>
+      <MSS_IXMAS_ChristmasMurderCookie>10</MSS_IXMAS_ChristmasMurderCookie>
+    </products>
+  </RecipeDef>
+</Defs>
